@@ -6,6 +6,12 @@ infos, son niveau, ses skills et la liste de ses projets.
 
 Projet réalisé à 42 (Mobile Initiation).
 
+## Démo
+
+<p align="center">
+  <img src="assets/demo.gif" width="280" alt="Démo Swifty Companion">
+</p>
+
 ## Stack
 
 - **Swift / SwiftUI**, interface 100% native
